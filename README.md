@@ -26,9 +26,3 @@ and recommends the **best price** to help maximize sales and revenue.
 - Pandas, NumPy (for data handling)  
 - Scikit-learn (for ML models & evaluation)  
 - Matplotlib (for visualization)  
-
-
-## How to Run
-1. Clone this repository  
-```bash
-git clone https://github.com/your-username/amazon-sales-price-suggestion.git
