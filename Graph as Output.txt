@@ -1,0 +1,33 @@
+Matplotlib Graph 
+This shows Actual vs Predicted Price for each product:
+
+Y-axis → Price (RS)  
+X-axis → Product Index  
+
+• Blue Line (circle marker) = Actual Price  
+• Orange Line (cross marker) = Predicted Price
+It looks something like this (on your screen when you run the code):
+
+Graph Example
+A smooth upward line for Actual Prices.
+Another line for Predicted Prices closely following it.
+The closer they are, the better the model accuracy.
+
+------------------------------------------------------------------------------------
+
+ASCII Graph: Actual vs Predicted Price
+
+Product  1 |        A   P
+Product  2 |            AP
+Product  3 |              A P
+Product  4 |                 AP
+Product  5 |                    A  P
+Product  6 |                       A P
+Product  7 |                         A  P
+Product  8 |                            A P
+Product  9 |                               A P
+Product 10 |                                  AP
+
+Legend: A = Actual Price, P = Predicted Price
+Each row = one product
+A = Actual Price, P = Predicted Price
