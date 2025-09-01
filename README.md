@@ -1,6 +1,6 @@
 # e-commerce-sales-price-suggestion-system
 An intelligent pricing recommendation model that blends sales data, reviews, and current price to optimize profits for Amazon sellers.
-# 🛒 Amazon Sales Price Suggestion System
+# Amazon Sales Price Suggestion System
 
 ## Overview
 This project predicts **optimal product prices** for Amazon sellers using **machine learning**.  
