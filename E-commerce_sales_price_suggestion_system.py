@@ -1,4 +1,4 @@
-# Amazon Sales Price Suggestion System 
+# Product Recommendation System 
 # Author: Shubham Rajguru
 
 # Step 1: Import Libraries
